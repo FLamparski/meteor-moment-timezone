@@ -6,6 +6,9 @@
   "version": "0.0.1.4",
   "git": "https://github.com/acreeger/meteor-moment-timezone",
   "packages": {
-    "moment": {}
+    "moment": {
+      "git": "https://github.com/FLamparski/meteor-moment",
+      "branch": "master"
+    }
   }
 }
