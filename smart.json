@@ -8,7 +8,7 @@
   "packages": {
     "moment": {
       "git": "https://github.com/FLamparski/meteor-moment",
-      "branch": "master"
+      "branch": "langs"
     }
   }
 }
